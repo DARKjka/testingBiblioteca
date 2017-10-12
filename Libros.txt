@@ -1,0 +1,5 @@
+1,IT,1986,Stephen_King,E1,disponible
+2,Buick_8,2010,Stephen_King,E1,no_disponible
+3,Rey_Lear,2003,William_Shakespeare,E2,disponible
+4,Charlie_y_la_fabrica_de_chocolate,2011,Roald_Dahl,E2,disponible
+5,El_Principito,1980,Antoine_De_Saint-Exupery,E1,disponible
